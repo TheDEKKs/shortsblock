@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Block YouTube Shorts",
     "version": "1.0",
-    "description": "Закрывает вкладки с YouTube Shorts.",
+    "description": "Closes tabs with YouTube Shorts.",
     "permissions": ["tabs"],
     "background": {
         "service_worker": "background.js"
